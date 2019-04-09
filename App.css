@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.list{
+  list-style-type: none;
+  width:40%;
+  margin:auto;
+  
+  
+  box-shadow: 0 2px 3px #ccc;
+  text-align:center;
+  background-color:white;
+}
+
+.card{
+  
+    padding: 10px;
+    margin-bottom: 100px;
+    background-color: white;
+    text-align: justify;
+}
